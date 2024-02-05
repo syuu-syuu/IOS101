@@ -2,7 +2,7 @@
 
 Submitted by: **Lizzy Zhou**
 
-**ColorSwitch** is a simple app that lets users change the text and background colors by tapping a button. It's designed for anyone who wants to quickly switch up their screen's look.
+**ColorSwitch** is a simple app that lets users change the text and background colors by tapping a button. The text will change dynamically according to the background color ensuring thatsufficient contrast and readability regardless of whether the background color is light or dark. 
 
 Time spent: **1.5** hours spent in total
 
@@ -12,12 +12,14 @@ The following **required** functionality is completed:
 
 -  ✅  Users are see a screen with three labels and a button
 -  ✅  Tapping the button changes the screen color to a random color
+
+The following stretch functionality is completed:
+
+-  ✅ Implement a way to change the color of the text as well according to the brightness of the background color. 
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 212.72727272727275%; height: 0;"><iframe src="https://www.loom.com/embed/9760fb2dacdc4098924502bfd16b8196?sid=d5d294cc-fdb8-4f27-a167-c635992e8364" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
 
