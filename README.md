@@ -19,7 +19,14 @@ The following stretch functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 212.72727272727275%; height: 0;"><iframe src="https://www.loom.com/embed/9760fb2dacdc4098924502bfd16b8196?sid=d5d294cc-fdb8-4f27-a167-c635992e8364" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/9760fb2dacdc4098924502bfd16b8196">
+      <p>Simulator - iPhone 15 Pro - 4 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9760fb2dacdc4098924502bfd16b8196">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9760fb2dacdc4098924502bfd16b8196-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
