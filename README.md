@@ -21,7 +21,7 @@ The following stretch functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/9760fb2dacdc4098924502bfd16b8196">
-      <p>Simulator - iPhone 15 Pro - 4 February 2024 - Watch Video</p>
+      <p>Simulator - iPhone 15 Pro</p>
     </a>
     <a href="https://www.loom.com/share/9760fb2dacdc4098924502bfd16b8196">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9760fb2dacdc4098924502bfd16b8196-with-play.gif">
