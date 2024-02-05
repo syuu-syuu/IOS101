@@ -58,6 +58,7 @@ In my childhood, television programs were listed in the newspaper, and my family
 ## Notes
 
 Describe any challenges encountered while building the app.
+-  It was a little tricky to form a formula to determine the text color based on the background color's brightness. 
 
 ## License
 
